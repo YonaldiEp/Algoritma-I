@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cloud2
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveHorizontally()
+comment3.params=newSpeed
+comment3.target=void\ setSpeed(int)
+comment4.params=newSpeed
+comment4.target=void\ setHorizontalSpeed(int)
+comment5.params=direction
+comment5.target=void\ setMovingRight(boolean)
+numComments=6

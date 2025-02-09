@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Utama
+comment1.params=
+comment1.target=Utama()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ stopMusic()
+comment6.params=
+comment6.target=void\ playMusic()
+numComments=7
